@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on something cool :wink:
 - 💬 Ask me about anything related to JavaScript/React/Redux
 - 📫 How to reach me: [@seryozhabaleyko](https://www.linkedin.com/in/seryozhabaleyko)
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: I :heart: ice cream 🍨 and apples 🍏.
 
 <!--
 **seryozhabaleyko/seryozhabaleyko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
