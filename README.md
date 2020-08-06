@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I’m Front-end developer, open source lover and after all a wonderful human being...
+
 - 🔭 I’m currently working on something cool :wink:.
 - 📫 How to reach me: [@seryozhabaleyko](https://www.linkedin.com/in/seryozhabaleyko).
 - ⚡ Fun fact: I love :heart: ice cream 🍨 and apples 🍏.
