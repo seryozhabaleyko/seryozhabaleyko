@@ -3,7 +3,7 @@
 I’m a front-end developer, open source lover and after all a wonderful human being...
 
 - 🔭 I’m currently working on something cool :wink:.
-- 🌱 I put mostly of my focus on web development with TypeScript, JavaScript, React and Redux.
+- 🌱 I put mostly of my focus on web development with TypeScript, Express, JavaScript, React and Redux.
 - 📫 How to reach me: [@seryozhabaleyko](https://www.linkedin.com/in/seryozhabaleyko).
 - ⚡ Fun fact: I love :heart: ice cream 🍨 and apples 🍏.
 
