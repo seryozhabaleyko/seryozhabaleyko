@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Sergey, and I am a full-stack web developer. I love to explore new technologies and broaden my knowledge and skills
+My name is Sergey, and I am a full-stack web developer. I love to explore new technologies and broaden my knowledge and skills.
 
 - 🔭 I’m currently working on something cool :wink:.
 - 🌱 I put mostly of my focus on web development with TypeScript, Express, JavaScript, React and Redux.
