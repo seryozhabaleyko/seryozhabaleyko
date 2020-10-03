@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I’m a front-end developer, open source lover and after all a wonderful human being...
+My name is Sergey, and I am a full-stack web developer. I love to explore new technologies and broaden my knowledge and skills
 
 - 🔭 I’m currently working on something cool :wink:.
 - 🌱 I put mostly of my focus on web development with TypeScript, Express, JavaScript, React and Redux.
