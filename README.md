@@ -30,6 +30,11 @@ I'm a full-stack web developer. I love to explore new technologies and broaden m
 ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma)&nbsp;
 ![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman)&nbsp;
 
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-black?logo=visual-studio-code&style=social)&nbsp;&nbsp;
+![WebStorm](https://img.shields.io/badge/-Git-black?logo=git&style=social)&nbsp;&nbsp;
+![Git](https://img.shields.io/badge/-Git-black?logo=git&style=social)&nbsp;&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-black?logo=github&style=social)&nbsp;&nbsp;
+
 ---
 
 ### ⚙️ GitHub Analytics
