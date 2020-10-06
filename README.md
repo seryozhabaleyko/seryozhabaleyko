@@ -60,9 +60,9 @@
 <h3>⚙️ GitHub Analytics</h3>
 
 <p>
-<img width="50%" height="160em" align="left" alt="Sergey Baleyko Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=seryozhabaleyko&show_icons=true" />
+<img height="160em" align="left" alt="Sergey Baleyko Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=seryozhabaleyko&show_icons=true" />
 
-<img width="50%" height="160em" align="right" alt="Sergey Baleyko Github Lnguages" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=seryozhabaleyko&layout=compact" />
+<img height="160em" align="right" alt="Sergey Baleyko Github Lnguages" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=seryozhabaleyko&layout=compact" />
 </p>
 
 <!--
