@@ -1,4 +1,5 @@
 ### Hi there 👋
+<h1>Hello there, I'm Sergey 👋</h1>
 
 My name is Sergey, and I am a full-stack web developer. I love to explore new technologies and broaden my knowledge and skills.
 
