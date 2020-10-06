@@ -30,6 +30,7 @@ My name is Sergey, and I am a full-stack web developer. I love to explore new te
 ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)&nbsp;
 ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma)&nbsp;
+![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman)&nbsp;
 
 ---
 
