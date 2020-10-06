@@ -4,7 +4,7 @@ My name is Sergey, and I am a full-stack web developer. I love to explore new te
 
 - 🔭 I’m currently working on something cool :wink:.
 - 🌱 I put mostly of my focus on web development with TypeScript, Express, JavaScript, React and Redux.
-- 📫 How to reach me: [@seryozhabaleyko](https://www.linkedin.com/in/seryozhabaleyko).
+- 📫 How to reach me: [linkedin](https://www.linkedin.com/in/seryozhabaleyko), [twitter](https://twitter.com/seryozhabaleyko).
 - ⚡ Fun fact: I love :heart: ice cream 🍨 and apples 🍏.
 
 ---
