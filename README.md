@@ -20,6 +20,8 @@
 
 <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-black?style=social&logo=mongodb&logoColor=47A248" />
 
+<img alt="MySQL" src="https://img.shields.io/badge/-MySQL-black?style=social&logo=mysql" />
+
 <img alt="React" src="https://img.shields.io/badge/-React-black?style=social&logo=react&logoColor=61DAFB" />
 
 <img alt="Redux" src="https://img.shields.io/badge/-Redux-black?style=social&logo=redux" />
@@ -38,9 +40,9 @@
 
 <img alt="Material UI" src="https://img.shields.io/badge/-Material%20UI-black?style=social&logo=material-ui" />
 
-<img alt="Webpack" src="https://img.shields.io/badge/-Webpack-8DD6F9?style=social&logo=webpack" />
+<img alt="Webpack" src="https://img.shields.io/badge/-Webpack-black?style=social&logo=webpack" />
 
-<img alt="Gulp" src="https://img.shields.io/badge/-Gulp-8DD6F9?style=social&logo=gulp" />
+<img alt="Gulp" src="https://img.shields.io/badge/-Gulp-black?style=social&logo=gulp" />
 </p>
 
 <h3>🛠 Tools:</h3>
