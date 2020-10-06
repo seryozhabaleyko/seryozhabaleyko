@@ -11,24 +11,17 @@ I'm a full-stack web developer. I love to explore new technologies and broaden m
 
 ### 💻 Tech Stack:
 
-![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3)&nbsp;
-![SASS](https://img.shields.io/badge/-SASS-333333?style=flat&logo=SASS)&nbsp;
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)&nbsp;
-![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=TypeScript&logoColor=007ACC)
-![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)&nbsp;
-![Redux](https://img.shields.io/badge/-Redux-333333?style=flat&logo=redux)&nbsp;
-![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)&nbsp;
+![HTML](https://img.shields.io/badge/-HTML-black?style=social&logo=HTML5)&nbsp;&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-black?style=social&logo=CSS3)&nbsp;&nbsp;
+![SASS](https://img.shields.io/badge/-SASS-black?style=social&logo=SASS)&nbsp;&nbsp;
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-black?style=social&logo=bootstrap&logoColor=563D7C)&nbsp;&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=social&logo=javascript)&nbsp;&nbsp;
+![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=social&logo=TypeScript&logoColor=007ACC)&nbsp;&nbsp;
+![React](https://img.shields.io/badge/-React-black?style=social&logo=react)&nbsp;&nbsp;
+![Redux](https://img.shields.io/badge/-Redux-black?style=social&logo=redux)&nbsp;&nbsp;
+![Markdown](https://img.shields.io/badge/-Markdown-black?style=social&logo=markdown)&nbsp;&nbsp;
 
 ### 🛠 Tools:
-
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-![WebStorm](https://img.shields.io/badge/-WebStorm-333333?style=flat&logo=webstorm)&nbsp;
-![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)&nbsp;
-![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma)&nbsp;
-![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman)&nbsp;
 
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-black?logo=visual-studio-code&style=social)&nbsp;&nbsp;
 ![WebStorm](https://img.shields.io/badge/-WebStorm-black?logo=webstorm&style=social)&nbsp;&nbsp;
