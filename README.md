@@ -11,11 +11,8 @@ My name is Sergey, and I am a full-stack web developer. I love to explore new te
 
 ### ⚙️ GitHub Analytics
 
-![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=seryozhabaleyko&repo=github-readme-stats&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)
-
 <img height="160em" align="left" alt="Sergey Baleyko Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=seryozhabaleyko&show_icons=true" />
-
-<img height="160em" align="right" alt="Sergey Baleyko Github Lnguages" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=seryozhabaleyko&theme=radical&layout=compact" />
+<img height="160em" align="right" alt="Sergey Baleyko Github Lnguages" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=seryozhabaleyko&layout=compact" />
 
 <!--
 **seryozhabaleyko/seryozhabaleyko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
