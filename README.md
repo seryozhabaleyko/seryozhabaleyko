@@ -12,7 +12,7 @@ My name is Sergey, and I am a full-stack web developer. I love to explore new te
 ### ⚙️ GitHub Analytics
 
 <img height="50%" align="left" alt="Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=seryozhabaleyko&theme=radical&show_icons=true" />
-<img height="160em" align="right" alt="Lnguages" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=seryozhabaleyko&theme=radical&layout=compact" />
+<img height="50%" align="right" alt="Lnguages" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=seryozhabaleyko&theme=radical&layout=compact" />
 
 <!--
 **seryozhabaleyko/seryozhabaleyko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
