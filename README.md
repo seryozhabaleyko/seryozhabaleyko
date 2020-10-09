@@ -49,6 +49,10 @@
 <img alt="npm" src="https://img.shields.io/badge/-npm-black?style=social&logo=npm&logoColor=CB3837" />
 
 <img alt="yarn" src="https://img.shields.io/badge/-yarn-black?style=social&logo=yarn&logoColor=2C8EBB" />
+
+<img alt="Prettier" src="https://img.shields.io/badge/-Prettier-black?style=social&logo=prettier&logoColor=F7B93E" />
+
+<img alt="ESLint" src="https://img.shields.io/badge/-ESLint-black?style=social&logo=ESLint&logoColor=4B32C3" />
 </p>
 
 <h3>🛠 Tools:</h3>
