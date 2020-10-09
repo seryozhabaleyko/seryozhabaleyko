@@ -45,6 +45,8 @@
 <img alt="Gulp" src="https://img.shields.io/badge/-Gulp-black?style=social&logo=gulp" />
 
 <img alt="Firebase" src="https://img.shields.io/badge/-Firebase-black?style=social&logo=firebase&logoColor=FFCA28" />
+
+<img alt="NPM" src="https://img.shields.io/badge/-NPM-black?style=social&logo=npm&logoColor=CB3837" />
 </p>
 
 <h3>🛠 Tools:</h3>
