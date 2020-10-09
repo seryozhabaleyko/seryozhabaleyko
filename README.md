@@ -43,6 +43,8 @@
 <img alt="Webpack" src="https://img.shields.io/badge/-Webpack-black?style=social&logo=webpack" />
 
 <img alt="Gulp" src="https://img.shields.io/badge/-Gulp-black?style=social&logo=gulp" />
+
+<img alt="Firebase" src="https://img.shields.io/badge/-Firebase-black?style=social&logo=firebase" />
 </p>
 
 <h3>🛠 Tools:</h3>
