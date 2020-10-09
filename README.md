@@ -46,7 +46,9 @@
 
 <img alt="Firebase" src="https://img.shields.io/badge/-Firebase-black?style=social&logo=firebase&logoColor=FFCA28" />
 
-<img alt="NPM" src="https://img.shields.io/badge/-NPM-black?style=social&logo=npm&logoColor=CB3837" />
+<img alt="npm" src="https://img.shields.io/badge/-npm-black?style=social&logo=npm&logoColor=CB3837" />
+
+<img alt="yarn" src="https://img.shields.io/badge/-yarn-black?style=social&logo=yarn&logoColor=2C8EBB" />
 </p>
 
 <h3>🛠 Tools:</h3>
