@@ -3,7 +3,7 @@
 <p>I'm a full-stack web developer. I love to explore new technologies and broaden my knowledge and skills.</p>
 
 -   🔭 I’m currently working on something cool :wink:.
--   🌱 I put mostly of my focus on web development with TypeScript, Express, JavaScript, React and Redux.
+-   🌱 I put mostly of my focus on web development with TypeScript, JavaScript, NodeJS, Express, React and Redux.
 -   📫 How to reach me: [linkedin/seryozhabaleyko](https://www.linkedin.com/in/seryozhabaleyko), [twitter/seryozhabaleyko](https://twitter.com/seryozhabaleyko), [seryozha.baleyko@gmail.com](mailto:seryozha.baleyko@gmail.com).
 -   ⚡ Fun fact: I love :heart: ice cream 🍨 and apples 🍏.
 
