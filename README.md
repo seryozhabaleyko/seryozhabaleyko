@@ -38,7 +38,7 @@
 
 <img alt="Markdown" src="https://img.shields.io/badge/-Markdown-black?style=social&logo=markdown" />
 
-<img alt="Ant Design" src="https://img.shields.io/badge/-Ant%20Design-black?style=social&logo=antdesign" />
+<img alt="Ant Design" src="https://img.shields.io/badge/-Ant%20Design-black?style=social&logo=Ant Design" />
 
 <img alt="Material UI" src="https://img.shields.io/badge/-Material%20UI-black?style=social&logo=material-ui" />
 
