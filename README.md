@@ -16,7 +16,7 @@
 
 <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-black?style=social&logo=javascript&logoColor=F7DF1E" />
 
-<img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-black?style=social&logo=Node.js" />
+<img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-black?style=social&logo=Nodemon" />
 
 <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-black?style=social&logo=mongodb&logoColor=47A248" />
 
