@@ -24,7 +24,7 @@
 
 <img alt="React" src="https://img.shields.io/badge/-React-black?style=social&logo=react&logoColor=61DAFB" />
 
-<img alt="Vue" src="https://img.shields.io/badge/-React-black?style=social&logo=vue&logoColor=61DAFB" />
+<img alt="Vue" src="https://img.shields.io/badge/-Vue-black?style=social&logo=Vuetify&logoColor=61DAFB" />
 
 <img alt="Redux" src="https://img.shields.io/badge/-Redux-black?style=social&logo=redux" />
 
