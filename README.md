@@ -66,6 +66,7 @@
 <img alt="Gitlab" src="https://img.shields.io/badge/gitlab-380D75.svg?&style=for-the-badge&logo=gitlab&logoColor=fff" />&nbsp;
 <img alt="Jira" src="https://img.shields.io/badge/jira-2D80FF.svg?&style=for-the-badge&logo=jira&logoColor=fff" />&nbsp;
 <img alt="Airtable" src="https://img.shields.io/badge/airtable-18BFFF.svg?&style=for-the-badge&logo=airtable&logoColor=fff" />&nbsp;
+<img alt="Worksection" src="https://img.shields.io/badge/wattpad-00D564.svg?&style=for-the-badge&logo=wattpad&logoColor=fff" />&nbsp;
 <img alt="Heroku" src="https://img.shields.io/badge/heroku-5920B1.svg?&style=for-the-badge&logo=heroku&logoColor=fff" />&nbsp;
 <img alt="Photoshop" src="https://img.shields.io/badge/photoshop-31A8FF.svg?&style=for-the-badge&logo=adobe-photoshop&logoColor=fff" />&nbsp;
 <img alt="Figma" src="https://img.shields.io/badge/figma-F24E1E.svg?&style=for-the-badge&logo=figma&logoColor=fff" />&nbsp;
