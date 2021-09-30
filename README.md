@@ -76,6 +76,12 @@
 
 ### ⚙️ GitHub Analytics
 
+<p style="display: flex;">
+<img align="left" alt="Sergey Baleyko Github Stats" src="https://github-readme-stats.vercel.app/api?username=seryozhabaleyko&show_icons=true&theme=algolia" />
+<img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=seryozhabaleyko&theme=algolia" alt="Sergey Baleyko Github stats" />
+<img align="right" alt="Sergey Baleyko Github Lnguages" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=seryozhabaleyko&theme=algolia&layout=compact" />
+</p>
+
 <table>
   <tr>
     <td>
