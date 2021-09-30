@@ -9,53 +9,33 @@
 
 ---
 
-<h3>💻 Tech Stack:</h3>
+### 💻 Tech Stack:
 
-<p>
-<img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-black?style=social&logo=typescript&logoColor=007ACC" />
-
-<img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-black?style=social&logo=javascript&logoColor=F7DF1E" />
-
-<img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-black?style=social&logo=Nodemon" />
-
-<img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-black?style=social&logo=mongodb&logoColor=47A248" />
-
-<img alt="MySQL" src="https://img.shields.io/badge/-MySQL-black?style=social&logo=mysql" />
-
-<img alt="React" src="https://img.shields.io/badge/-React-black?style=social&logo=react&logoColor=61DAFB" />
-
-<img alt="Vue" src="https://img.shields.io/badge/-Vue-black?style=social&logo=Vuetify&logoColor=61DAFB" />
-
-<img alt="Redux" src="https://img.shields.io/badge/-Redux-black?style=social&logo=redux" />
-
-<img alt="HTML" src="https://img.shields.io/badge/-HTML-black?style=social&logo=html5" />
-
-<img alt="CSS" src="https://img.shields.io/badge/-CSS-black?style=social&logo=css3" />
-
-<img alt="SASS" src="https://img.shields.io/badge/-SASS-black?style=social&logo=sass" />
-
-<img alt="Bootstrap" src="https://img.shields.io/badge/-Bootstrap-black?style=social&logo=bootstrap" />
-
-<img alt="Markdown" src="https://img.shields.io/badge/-Markdown-black?style=social&logo=markdown" />
-
-<img alt="Ant Design" src="https://img.shields.io/badge/-Ant%20Design-black?style=social&logo=Ant Design" />
-
-<img alt="Material UI" src="https://img.shields.io/badge/-Material%20UI-black?style=social&logo=material-ui" />
-
-<img alt="Webpack" src="https://img.shields.io/badge/-Webpack-black?style=social&logo=webpack" />
-
-<img alt="Gulp" src="https://img.shields.io/badge/-Gulp-black?style=social&logo=gulp" />
-
-<img alt="Firebase" src="https://img.shields.io/badge/-Firebase-black?style=social&logo=firebase&logoColor=FFCA28" />
-
-<img alt="npm" src="https://img.shields.io/badge/-npm-black?style=social&logo=npm&logoColor=CB3837" />
-
-<img alt="yarn" src="https://img.shields.io/badge/-yarn-black?style=social&logo=yarn&logoColor=2C8EBB" />
-
-<img alt="Prettier" src="https://img.shields.io/badge/-Prettier-black?style=social&logo=prettier&logoColor=F7B93E" />
-
-<img alt="ESLint" src="https://img.shields.io/badge/-ESLint-black?style=social&logo=ESLint&logoColor=4B32C3" />
-</p>
+<img alt="TypeScript" src="https://img.shields.io/badge/typescript-007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=fff" />&nbsp;
+<img alt="JavaScript" src="https://img.shields.io/badge/javascript-F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=fff" />&nbsp;
+<img alt="Vue" src="https://img.shields.io/badge/vue-4FC08D.svg?style=for-the-badge&logo=vuedotjs&logoColor=fff" />&nbsp;
+<img alt="Next" src="https://img.shields.io/badge/next-000.svg?&style=for-the-badge&logo=next.js&logoColor=fff" />&nbsp;
+<img alt="React" src="https://img.shields.io/badge/react-61DAFB.svg?&style=for-the-badge&logo=react&logoColor=fff" />&nbsp;
+<img alt="Redux" src="https://img.shields.io/badge/redux-764ABC.svg?&style=for-the-badge&logo=redux&logoColor=fff" />&nbsp;
+<img alt="Redux-saga" src="https://img.shields.io/badge/redux saga-939393.svg?&style=for-the-badge&logo=redux-saga&logoColor=fff" />&nbsp;
+<img alt="Graphql" src="https://img.shields.io/badge/graphql-E10098.svg?&style=for-the-badge&logo=graphql&logoColor=fff" />&nbsp;
+<img alt="Nodejs" src="https://img.shields.io/badge/node.js-90C53F.svg?&style=for-the-badge&logo=node.js&logoColor=fff" />&nbsp;
+<img alt="Express" src="https://img.shields.io/badge/express-000000.svg?&style=for-the-badge&logo=express&logoColor=fff" />&nbsp;
+<img alt="Mongodb" src="https://img.shields.io/badge/mongodb-26A944.svg?&style=for-the-badge&logo=mongodb&logoColor=fff" />&nbsp;
+<img alt="HTML5" src="https://img.shields.io/badge/html-E34F26.svg?&style=for-the-badge&logo=html5&logoColor=fff" />&nbsp;
+<img alt="CSS3" src="https://img.shields.io/badge/css-1572B6.svg?&style=for-the-badge&logo=css3&logoColor=fff" />&nbsp;
+<img alt="SASS" src="https://img.shields.io/badge/sass-CF649A.svg?&style=for-the-badge&logo=sass&logoColor=fff" />&nbsp;
+<img alt="Ant Design" src="https://img.shields.io/badge/Ant%20Design-0170FE.svg?style=for-the-badge&logo=antdesign&logoColor=fff" />&nbsp;
+<img alt="Material UI" src="https://img.shields.io/badge/material%20UI-0081CB.svg?style=for-the-badge&logo=materialui&logoColor=fff" />&nbsp;
+<img alt="Bootstrap" src="https://img.shields.io/badge/bootstrap-7610F7.svg?&style=for-the-badge&logo=bootstrap&logoColor=fff" />&nbsp;
+<img alt="markdown" src="https://img.shields.io/badge/markdown-000.svg?&style=for-the-badge&logo=markdown&logoColor=fff" />&nbsp;
+<img alt="Webpack" src="https://img.shields.io/badge/Webpack-8DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=fff" />&nbsp;
+<img alt="Gulp" src="https://img.shields.io/badge/Gulp-CF4647.svg?style=for-the-badge&logo=gulp&logoColor=fff" />&nbsp;
+<img alt="Firebase" src="https://img.shields.io/badge/Firebase-FFCA28.svg?style=for-the-badge&logo=firebase&logoColor=fff" />&nbsp;
+<img alt="npm" src="https://img.shields.io/badge/npm-CB3837.svg?style=for-the-badge&logo=npm&logoColor=fff" />&nbsp;
+<img alt="yarn" src="https://img.shields.io/badge/yarn-2C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=fff" />&nbsp;
+<img alt="Prettier" src="https://img.shields.io/badge/Prettier-F7B93E.svg?style=for-the-badge&logo=prettier&logoColor=fff" />&nbsp;
+<img alt="ESLint" src="https://img.shields.io/badge/ESLint-4B32C3.svg?style=for-the-badge&logo=ESLint&logoColor=fff" />&nbsp;
 
 ### 🛠 Tools:
 
