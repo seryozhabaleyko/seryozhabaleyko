@@ -72,21 +72,20 @@
 <img alt="Photoshop" src="https://img.shields.io/badge/photoshop-31A8FF.svg?&style=for-the-badge&logo=adobe-photoshop&logoColor=fff" />&nbsp;
 <img alt="Figma" src="https://img.shields.io/badge/figma-F24E1E.svg?&style=for-the-badge&logo=figma&logoColor=fff" />&nbsp;
 
-<h3>🛠 Tools:</h3>
+---
 
-<p>
-<img alt="Visual Studio Code" src="https://img.shields.io/badge/-Visual%20Studio%20Code-black?style=social&logo=visual-studio-code" />
+### ⚙️ GitHub Analytics
 
-<img alt="WebStorm" src="https://img.shields.io/badge/-WebStorm-black?style=social&logo=webstorm" />
-
-<img alt="Git" src="https://img.shields.io/badge/-Git-black?style=social&logo=git" />
-
-<img alt="GitHub" src="https://img.shields.io/badge/-GitHub-black?style=social&logo=github" />
-
-<img alt="Figma" src="https://img.shields.io/badge/-Figma-black?style=social&logo=figma" />
-
-<img alt="Postman" src="https://img.shields.io/badge/-Postman-black?style=social&logo=postman" />
-</p>
+<table>
+  <tr>
+    <td>
+      <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=YauhenKavalchuk&theme=algolia" alt="Sergey Baleyko Github stats" />
+    </td>
+    <td>
+      <img height="195px" align="right" alt="Sergey Baleyko Github Lnguages" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=seryozhabaleyko&theme=algolia&layout=compact" />
+    </td>
+  </tr>
+</table>
 
 ---
 
