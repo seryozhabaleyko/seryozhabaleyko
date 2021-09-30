@@ -7,6 +7,15 @@
 -   📫 How to reach me: [linkedin/seryozhabaleyko](https://www.linkedin.com/in/seryozhabaleyko), [twitter/seryozhabaleyko](https://twitter.com/seryozhabaleyko), [seryozha.baleyko@gmail.com](mailto:seryozha.baleyko@gmail.com).
 -   ⚡ Fun fact: I love :heart: ice cream 🍨 and apples 🍏.
 
+### 🤝 Connect with me:
+
+[<img alt="Gmail" src="https://img.shields.io/badge/Gmail-E4405F.svg?&style=for-the-badge&logo=gmail&logoColor=white" />](mailto:seryozha.baleyko@gmail.com)
+[<img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-0077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/seryozhabaleyko)
+[<img alt="Instagram" src="https://img.shields.io/badge/instagram-E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />](https://www.instagram.com/seryozha.baleyko)
+[<img alt="Telegram" src="https://img.shields.io/badge/Telegram-26A5E4.svg?&style=for-the-badge&logo=telegram&logoColor=white" />](https://t.me/seryozhabaleyko)
+[<img alt="VK" src="https://img.shields.io/badge/vk-4680C2.svg?&style=for-the-badge&logo=vk&logoColor=white" />](https://vk.com/seryozha.baleyko)
+[<img alt="Twitter" src="https://img.shields.io/badge/twitter-1DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/seryozhabaleyko)
+
 ---
 
 ### 💻 Tech Stack:
@@ -40,7 +49,7 @@
 ### 🛠 Tools:
 
 <img alt="WebStorm" src="https://img.shields.io/badge/-WebStorm-black?style=for-the-badge&logo=webstorm&logoColor=fff" />&nbsp;
-<img alt="Visual Studio Code" src="https://img.shields.io/badge/vs code-007ACC.svg?&style=for-the-badge&logo=visual-studio-code&logoColor=fff" />&nbsp;
+<img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual Studio Code-007ACC.svg?&style=for-the-badge&logo=visual-studio-code&logoColor=fff" />&nbsp;
 <img alt="Git" src="https://img.shields.io/badge/git-F05033.svg?&style=for-the-badge&logo=git&logoColor=fff" />&nbsp;
 <img alt="Github" src="https://img.shields.io/badge/github-000.svg?&style=for-the-badge&logo=github&logoColor=fff" />&nbsp;
 <img alt="Gitlab" src="https://img.shields.io/badge/gitlab-380D75.svg?&style=for-the-badge&logo=gitlab&logoColor=fff" />&nbsp;
@@ -51,6 +60,7 @@
 <img alt="Heroku" src="https://img.shields.io/badge/heroku-5920B1.svg?&style=for-the-badge&logo=heroku&logoColor=fff" />&nbsp;
 <img alt="Photoshop" src="https://img.shields.io/badge/photoshop-31A8FF.svg?&style=for-the-badge&logo=adobe-photoshop&logoColor=fff" />&nbsp;
 <img alt="Figma" src="https://img.shields.io/badge/figma-F24E1E.svg?&style=for-the-badge&logo=figma&logoColor=fff" />&nbsp;
+<img alt="Slack" src="https://img.shields.io/badge/Slack-4A154B.svg?&style=for-the-badge&logo=slack&logoColor=fff" />&nbsp;
 
 ---
 
