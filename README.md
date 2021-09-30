@@ -79,7 +79,7 @@
 <table>
   <tr>
     <td>
-      <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=YauhenKavalchuk&theme=algolia" alt="Sergey Baleyko Github stats" />
+      <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=seryozhabaleyko&theme=algolia" alt="Sergey Baleyko Github stats" />
     </td>
     <td>
       <img height="195px" align="right" alt="Sergey Baleyko Github Lnguages" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=seryozhabaleyko&theme=algolia&layout=compact" />
