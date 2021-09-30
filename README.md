@@ -59,12 +59,13 @@
 
 ### 🛠 Tools:
 
-<img alt="Visual Studio Code" src="https://img.shields.io/badge/vs code-007ACC.svg?&style=for-the-badge&logo=visual-studio-code&logoColor=fff" />&nbsp;
 <img alt="WebStorm" src="https://img.shields.io/badge/-WebStorm-black?style=for-the-badge&logo=webstorm&logoColor=fff" />
+<img alt="Visual Studio Code" src="https://img.shields.io/badge/vs code-007ACC.svg?&style=for-the-badge&logo=visual-studio-code&logoColor=fff" />&nbsp;
 <img alt="Git" src="https://img.shields.io/badge/git-F05033.svg?&style=for-the-badge&logo=git&logoColor=fff" />&nbsp;
 <img alt="Github" src="https://img.shields.io/badge/github-000.svg?&style=for-the-badge&logo=github&logoColor=fff" />&nbsp;
 <img alt="Gitlab" src="https://img.shields.io/badge/gitlab-380D75.svg?&style=for-the-badge&logo=gitlab&logoColor=fff" />&nbsp;
 <img alt="Jira" src="https://img.shields.io/badge/jira-2D80FF.svg?&style=for-the-badge&logo=jira&logoColor=fff" />&nbsp;
+<img alt="Airtable" src="https://img.shields.io/badge/airtable-18BFFF.svg?&style=for-the-badge&logo=airtable&logoColor=fff" />&nbsp;
 <img alt="Heroku" src="https://img.shields.io/badge/heroku-5920B1.svg?&style=for-the-badge&logo=heroku&logoColor=fff" />&nbsp;
 <img alt="Photoshop" src="https://img.shields.io/badge/photoshop-31A8FF.svg?&style=for-the-badge&logo=adobe-photoshop&logoColor=fff" />&nbsp;
 <img alt="Figma" src="https://img.shields.io/badge/figma.svg?&style=for-the-badge&logo=figma&logoColor=fff" />&nbsp;
