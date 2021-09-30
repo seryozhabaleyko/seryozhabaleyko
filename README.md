@@ -64,6 +64,7 @@
 <img alt="Git" src="https://img.shields.io/badge/git-F05033.svg?&style=for-the-badge&logo=git&logoColor=fff" />&nbsp;
 <img alt="Github" src="https://img.shields.io/badge/github-000.svg?&style=for-the-badge&logo=github&logoColor=fff" />&nbsp;
 <img alt="Gitlab" src="https://img.shields.io/badge/gitlab-380D75.svg?&style=for-the-badge&logo=gitlab&logoColor=fff" />&nbsp;
+<img alt="Postman" src="https://img.shields.io/badge/postman-FF6C37.svg?style=for-the-badge&logo=postman&logoColor=fff" />
 <img alt="Jira" src="https://img.shields.io/badge/jira-2D80FF.svg?&style=for-the-badge&logo=jira&logoColor=fff" />&nbsp;
 <img alt="Airtable" src="https://img.shields.io/badge/airtable-18BFFF.svg?&style=for-the-badge&logo=airtable&logoColor=fff" />&nbsp;
 <img alt="Worksection" src="https://img.shields.io/badge/worksection-00D564.svg?&style=for-the-badge&logo=wattpad&logoColor=fff" />&nbsp;
